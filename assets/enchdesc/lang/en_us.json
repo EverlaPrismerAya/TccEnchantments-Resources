@@ -12,7 +12,7 @@
     "enchantment.tcc.berserker":"Berserker",
     "enchantment.tcc.berserker.desc":"Greatly increases attack damage at the cost of reducing defense",
     "enchantment.tcc.betray":"Betray",
-    "enchantment.tcc.betray.desc":"The trident no longer returns automatically, but evaporates in place",
+    "enchantment.tcc.betray.desc":"The trident will return slowly and hurt you",
     "enchantment.tcc.blade_of_blacksmith":"Blade of Blacksmith",
     "enchantment.tcc.blade_of_blacksmith.desc":"Just increase attack damage, no more fancy stuff",
     "enchantment.tcc.blunt_grinding":"Blunt Grinding",

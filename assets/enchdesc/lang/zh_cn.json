@@ -12,7 +12,7 @@
     "enchantment.tcc.berserker":"狂战士",
     "enchantment.tcc.berserker.desc":"以降低防御力为代价大幅提升攻击力",
     "enchantment.tcc.betray":"背叛",
-    "enchantment.tcc.betray.desc":"三叉戟不再自动返回，而是原地蒸发",
+    "enchantment.tcc.betray.desc":"三叉戟将会以极慢速度自动返回并且背刺你",
     "enchantment.tcc.blade_of_blacksmith":"工匠之刃",
     "enchantment.tcc.blade_of_blacksmith.desc":"就是增加攻击力，没那么多花里胡哨的",
     "enchantment.tcc.blunt_grinding":"磨钝",
