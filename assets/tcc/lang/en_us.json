@@ -1,5 +1,14 @@
 {
     "death.attack.stress":"%1$s Stressed out",
     "death.attack.stress.player":"%1$s Stressed out by %2$s",
-    "death.attack.stress.player.item":"%1$s Stressed out by %2$s using %3$s"
+    "death.attack.stress.player.item":"%1$s Stressed out by %2$s using %3$s",
+
+    "death.attack.trident.player": "%1$s was impaled by %2$s",
+    "death.attack.trident.player.item": "%1$s was impaled by %2$s that summoned by %3$s",
+
+    "entity.tcc.mirage_trident":"Mirage Trident",
+
+    "item.tcc.punish_refresh_gem":"Punish Refresh Gem",
+    "item.tcc.punish_refresh_gem.desc.1":"§bHold this item in your offhand and the item you want to refresh in your main hand",
+    "item.tcc.punish_refresh_gem.desc.2":"§bHold right mouse button to refresh"
 }

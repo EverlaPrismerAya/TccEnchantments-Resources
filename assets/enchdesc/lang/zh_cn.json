@@ -148,5 +148,10 @@
     "enchantment.tcc.wind_breath":"§d风息",
     "enchantment.tcc.wind_breath.desc":"攻击将吸引附近敌人并造成冰冻伤害",
     "enchantment.tcc.yamato_judgement_cut":"§a阎魔审判",
-    "enchantment.tcc.yamato_judgement_cut.desc":"I AM THE STORM THAT IS APPROACHING!!!!!!"
+    "enchantment.tcc.yamato_judgement_cut.desc":"I AM THE STORM THAT IS APPROACHING!!!!!!",
+
+    "enchantment.tcc.pull_request":"拉取请求",
+    "enchantment.tcc.pull_request.desc":"将周围的物品吸引到三叉戟上",
+    "enchantment.tcc.spear_of_justice":"§a正义之矛",
+    "enchantment.tcc.spear_of_justice.desc":"三叉戟将能够召唤一簇幻影三叉戟"
 }

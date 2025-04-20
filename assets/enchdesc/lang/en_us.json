@@ -148,5 +148,10 @@
     "enchantment.tcc.wind_breath":"§dWind Breath",
     "enchantment.tcc.wind_breath.desc":"Attacks will attract nearby enemies and cause freezing damage",
     "enchantment.tcc.yamato_judgement_cut":"§aYamato Judgement Cut",
-    "enchantment.tcc.yamato_judgement_cut.desc":"I AM THE STORM THAT IS APPROACHING!!!!!!"
+    "enchantment.tcc.yamato_judgement_cut.desc":"I AM THE STORM THAT IS APPROACHING!!!!!!",
+
+    "enchantment.tcc.pull_request":"Pull Request",
+    "enchantment.tcc.pull_request.desc":"Pull the nearby items towards the trident",
+    "enchantment.tcc.spear_of_justice":"§aSpear of Justice",
+    "enchantment.tcc.spear_of_justice.desc":"The trident will be able to summon a cluster of mirage tridents"
 }
