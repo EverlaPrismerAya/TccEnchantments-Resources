@@ -153,5 +153,12 @@
     "enchantment.tcc.pull_request":"Pull Request",
     "enchantment.tcc.pull_request.desc":"Pull the nearby items towards the trident",
     "enchantment.tcc.spear_of_justice":"§aSpear of Justice",
-    "enchantment.tcc.spear_of_justice.desc":"The trident will be able to summon a cluster of mirage tridents"
+    "enchantment.tcc.spear_of_justice.desc":"The trident will be able to summon a cluster of mirage tridents",
+
+    "enchantment.tcc.stealth":"Stealth",
+    "enchantment.tcc.stealth.desc":"Accumulate stealth bar while holding a weapon, and when the stealth bar is full, it will be able to deal huge damage",
+    "enchantment.tcc.mine_curse":"Mine Curse",
+    "enchantment.tcc.mine_curse.desc":"Have a chance to summon a ignited creeper when fishing",
+    "enchantment.tcc.honey_hole":"Honey Hole",
+    "enchantment.tcc.honey_hole.desc":"Have a chance to get extra loots when fishing"
 }

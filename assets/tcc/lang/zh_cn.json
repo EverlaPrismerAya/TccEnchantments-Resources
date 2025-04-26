@@ -10,5 +10,10 @@
     
     "item.tcc.punish_refresh_gem":"惩罚刷新宝石",
     "item.tcc.punish_refresh_gem.desc.1":"§b副手手持本物品，主手手持要刷新的物品",
-    "item.tcc.punish_refresh_gem.desc.2":"§b长按右键即可刷新"
+    "item.tcc.punish_refresh_gem.desc.2":"§b长按右键即可刷新",
+
+    "item.tcc.human_part":"人民碎片",
+    "item.tcc.human_part.desc":"§4血淋淋的……",
+
+    "item.tcc.mysterious_crate":"神秘的匣子"
 }

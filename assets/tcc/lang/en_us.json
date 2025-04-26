@@ -10,5 +10,10 @@
 
     "item.tcc.punish_refresh_gem":"Punish Refresh Gem",
     "item.tcc.punish_refresh_gem.desc.1":"§bHold this item in your offhand and the item you want to refresh in your main hand",
-    "item.tcc.punish_refresh_gem.desc.2":"§bHold right mouse button to refresh"
+    "item.tcc.punish_refresh_gem.desc.2":"§bHold right mouse button to refresh",
+
+    "item.tcc.human_part":"Human Part",
+    "item.tcc.human_part.desc":"§4Bloody...",
+
+    "item.tcc.mysterious_crate":"Mysterious Crate"
 }

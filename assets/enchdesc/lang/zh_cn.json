@@ -153,5 +153,12 @@
     "enchantment.tcc.pull_request":"拉取请求",
     "enchantment.tcc.pull_request.desc":"将周围的物品吸引到三叉戟上",
     "enchantment.tcc.spear_of_justice":"§a正义之矛",
-    "enchantment.tcc.spear_of_justice.desc":"三叉戟将能够召唤一簇幻影三叉戟"
+    "enchantment.tcc.spear_of_justice.desc":"三叉戟将能够召唤一簇幻影三叉戟",
+
+    "enchantment.tcc.stealth":"潜伏",
+    "enchantment.tcc.stealth.desc":"手持武器时累计潜伏槽，潜伏槽蓄满将能够造成巨量伤害",
+    "enchantment.tcc.mine_curse":"水雷诅咒",
+    "enchantment.tcc.mine_curse.desc":"钓鱼时有概率钓出即将被引爆的苦力怕",
+    "enchantment.tcc.honey_hole":"神秘打野点",
+    "enchantment.tcc.honey_hole.desc":"钓鱼时有概率钓出额外奖励"
 }
