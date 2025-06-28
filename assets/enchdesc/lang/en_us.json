@@ -163,5 +163,7 @@
     "enchantment.tcc.honey_hole.desc":"Have a chance to get extra loots when fishing",
 
     "enchantment.tcc.enemy_step":"Enemy Step",
-    "enchantment.tcc.enemy_step.desc":"When you step on an enemy, it will take damage and bounce you back"
+    "enchantment.tcc.enemy_step.desc":"When you step on an enemy, it will take damage and bounce you back",
+    "enchantment.tcc.plated":"Plated",
+    "enchantment.tcc.plated.desc":"Increases Elytra's defense"
 }
