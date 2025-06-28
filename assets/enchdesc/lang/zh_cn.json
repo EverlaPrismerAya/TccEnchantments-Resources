@@ -160,5 +160,8 @@
     "enchantment.tcc.mine_curse":"水雷诅咒",
     "enchantment.tcc.mine_curse.desc":"钓鱼时有概率钓出即将被引爆的苦力怕",
     "enchantment.tcc.honey_hole":"神秘打野点",
-    "enchantment.tcc.honey_hole.desc":"钓鱼时有概率钓出额外奖励"
+    "enchantment.tcc.honey_hole.desc":"钓鱼时有概率钓出额外奖励",
+
+    "enchantment.tcc.enemy_step":"踩踩背",
+    "enchantment.tcc.enemy_step.desc":"踩踏敌人时会对其造成伤害并将你弹开"
 }
