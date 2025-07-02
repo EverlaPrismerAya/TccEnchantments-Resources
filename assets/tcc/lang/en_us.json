@@ -6,6 +6,14 @@
     "death.attack.trident.player": "%1$s was impaled by %2$s",
     "death.attack.trident.player.item": "%1$s was impaled by %2$s that summoned by %3$s",
 
+    "death.attack.aflame":"%1$s's soul was burned to ashes",
+    "death.attack.aflame.player":"%1$s's soul was burned to ashes by %2$s",
+    "death.attack.aflame.player.item":"%1$s's soul was burned to ashes by %2$s using %3$s",
+
+    "death.attack.ephemeral":"%1$s's soul was shattered",
+    "death.attack.ephemeral.player":"%1$s's soul was shattered by %2$s",
+    "death.attack.ephemeral.player.item":"%1$s's soul was shattered by %2$s using %3$s",
+
     "entity.tcc.mirage_trident":"Mirage Trident",
 
     "item.tcc.punish_refresh_gem":"Punish Refresh Gem",
@@ -15,5 +23,17 @@
     "item.tcc.human_part":"Human Part",
     "item.tcc.human_part.desc":"§4Bloody...",
 
-    "item.tcc.mysterious_crate":"Mysterious Crate"
+    "item.tcc.mysterious_crate":"Mysterious Crate",
+
+    "item.tcc.hex_scroll.desc.charged":"Energized!",
+    "item.tcc.hex_scroll.desc.uncharged":"Enchant at an enchanting table to energize and apply to tools",
+    
+    "item.tcc.hex_scroll_aflame":"Hex Scroll: Aflame",
+    "item.tcc.hex_scroll_aflame.desc":"Usable on: Any weapon",
+    "item.tcc.hex_scroll_ephemeral":"Hex Scroll: Ephemeral",
+    "item.tcc.hex_scroll_ephemeral.desc":"Usable on: Melee weapons",
+    "item.tcc.hex_scroll_hellbound":"Hex Scroll: Hellbound",
+    "item.tcc.hex_scroll_hellbound.desc":"Usable on: Bow weapons",
+
+    "enchantment.tcc.hex_ephemeral.display":"Stamina: "
 }

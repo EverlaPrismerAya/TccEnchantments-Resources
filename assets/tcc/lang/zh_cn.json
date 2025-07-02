@@ -5,6 +5,14 @@
 
     "death.attack.trident.player": "%1$s被%2$s的幻影三叉戟穿透了",
     "death.attack.trident.player.item": "%1$s被%2$s用%3$s召唤的幻影三叉戟穿透了",
+    
+    "death.attack.aflame":"%1$s的灵魂被焚烧殆尽",
+    "death.attack.aflame.player":"%1$s的灵魂被%2$s焚烧殆尽",
+    "death.attack.aflame.player.item":"%1$s的灵魂被%2$s用%3$s焚烧殆尽",
+    
+    "death.attack.ephemeral":"%1$s的灵魂被击碎了",
+    "death.attack.ephemeral.player":"%1$s的灵魂被%2$s击碎了",
+    "death.attack.ephemeral.player.item":"%1$s的灵魂被%2$s用%3$s击碎了",
 
     "entity.tcc.mirage_trident":"幻影三叉戟",
     
@@ -15,5 +23,17 @@
     "item.tcc.human_part":"人民碎片",
     "item.tcc.human_part.desc":"§4血淋淋的……",
 
-    "item.tcc.mysterious_crate":"神秘的匣子"
+    "item.tcc.mysterious_crate":"神秘的匣子",
+
+    "item.tcc.hex_scroll.desc.charged":"已注能！",
+    "item.tcc.hex_scroll.desc.uncharged":"在附魔台上进行任意附魔来注能以应用于工具",
+    
+    "item.tcc.hex_scroll_aflame":"咒术卷轴·魔焱",
+    "item.tcc.hex_scroll_aflame.desc":"可用于：任意武器",
+    "item.tcc.hex_scroll_ephemeral":"咒术卷轴·须臾",
+    "item.tcc.hex_scroll_ephemeral.desc":"可用于：近战武器",
+    "item.tcc.hex_scroll_hellbound":"咒术卷轴·狱使",
+    "item.tcc.hex_scroll_hellbound.desc":"可用于：弓箭武器",
+
+    "enchantment.tcc.hex_ephemeral.display":"剩余体力："
 }

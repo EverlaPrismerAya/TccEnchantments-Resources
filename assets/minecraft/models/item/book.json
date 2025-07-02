@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/book"
+  },
+  "overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 5950001
+			},
+			"model": "tcc:item/hex_scroll_aflame"
+		},
+        {
+			"predicate": {
+				"custom_model_data": 5950002
+			},
+			"model": "tcc:item/hex_scroll_ephemeral"
+		},
+        {
+			"predicate": {
+				"custom_model_data": 5950003
+			},
+			"model": "tcc:item/hex_scroll_hellbound"
+		}
+	]
+}

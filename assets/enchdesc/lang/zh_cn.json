@@ -165,5 +165,12 @@
     "enchantment.tcc.enemy_step":"踩踩背",
     "enchantment.tcc.enemy_step.desc":"踩踏敌人时会对其造成伤害并将你弹开",
     "enchantment.tcc.plated":"镶板",
-    "enchantment.tcc.plated.desc":"提升鞘翅的防御力"
+    "enchantment.tcc.plated.desc":"提升鞘翅的防御力",
+
+    "enchantment.tcc.hex_aflame":"§6§l咒术炼注·魔焱",
+    "enchantment.tcc.hex_aflame.desc":"使得武器在攻击时附加地狱硫火灼烧敌人",
+    "enchantment.tcc.hex_ephemeral":"§6§l咒术炼注·须臾",
+    "enchantment.tcc.hex_ephemeral.desc":"大幅提升武器伤害，但使用时间越久，伤害越低",
+    "enchantment.tcc.hex_hellbound":"§6§l咒术炼注·狱使",
+    "enchantment.tcc.hex_hellbound.desc":"使得武器在攻击时有概率召唤恼鬼协助作战，这些恼鬼会在一段时间后发生强烈爆炸"
 }

@@ -165,5 +165,12 @@
     "enchantment.tcc.enemy_step":"Enemy Step",
     "enchantment.tcc.enemy_step.desc":"When you step on an enemy, it will take damage and bounce you back",
     "enchantment.tcc.plated":"Plated",
-    "enchantment.tcc.plated.desc":"Increases Elytra's defense"
+    "enchantment.tcc.plated.desc":"Increases Elytra's defense",
+
+    "enchantment.tcc.hex_aflame":"§6§lHex: Aflame",
+    "enchantment.tcc.hex_aflame.desc":"Makes the weapon apply hellfire to burn the enemy when attacking",
+    "enchantment.tcc.hex_ephemeral":"§6§lHex: Ephemeral",
+    "enchantment.tcc.hex_ephemeral.desc":"Greatly increases weapon damage, but the longer it is used, the lower the damage becomes",
+    "enchantment.tcc.hex_hellbound":"§6§lHex: Hellbound",
+    "enchantment.tcc.hex_hellbound.desc":"Makes the weapon have a chance to summon some vex to assist in combat, which will explode after a period of time"
 }
