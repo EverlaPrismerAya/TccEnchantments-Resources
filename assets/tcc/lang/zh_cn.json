@@ -35,5 +35,10 @@
     "item.tcc.hex_scroll_hellbound":"咒术卷轴·狱使",
     "item.tcc.hex_scroll_hellbound.desc":"可用于：弓箭武器",
 
-    "enchantment.tcc.hex_ephemeral.display":"剩余体力："
+    "enchantment.tcc.hex_ephemeral.display":"剩余体力：",
+    
+    "subtitles.tcc.enchantment.enemy_step.step_on_1":"踩！",
+    "subtitles.tcc.enchantment.enemy_step.step_on_2":"背！",
+    "subtitles.tcc.enchantment.guilty_of_fortane.melt":"百慕大三角式人间蒸发",
+    "subtitles.tcc.enchantment.instakill_axe.kill":"钢管落地"
 }

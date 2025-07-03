@@ -35,5 +35,10 @@
     "item.tcc.hex_scroll_hellbound":"Hex Scroll: Hellbound",
     "item.tcc.hex_scroll_hellbound.desc":"Usable on: Bow weapons",
 
-    "enchantment.tcc.hex_ephemeral.display":"Stamina: "
+    "enchantment.tcc.hex_ephemeral.display":"Stamina: ",
+    
+    "subtitles.tcc.enchantment.enemy_step.step_on_1":"Step!",
+    "subtitles.tcc.enchantment.enemy_step.step_on_2":"Back!",
+    "subtitles.tcc.enchantment.guilty_of_fortane.melt":"Bermuda Triangle-style disappearance",
+    "subtitles.tcc.enchantment.instakill_axe.kill":"Metal pipe lands"
 }

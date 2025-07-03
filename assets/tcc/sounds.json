@@ -1,0 +1,26 @@
+{
+    "enchantment.enemy_step.step_on_1":{
+        "sounds":[
+            "tcc:enchantment/enemy_step/c"
+        ],
+        "subtitle": "subtitles.tcc.enchantment.enemy_step.step_on_1"
+    },
+    "enchantment.enemy_step.step_on_2":{
+        "sounds":[
+            "tcc:enchantment/enemy_step/b"
+        ],
+        "subtitle": "subtitles.tcc.enchantment.enemy_step.step_on_2"
+    },
+    "enchantment.guilty_of_fortane.melt":{
+        "sounds": [
+            "tcc:enchantment/guilty_of_fortane/deltarune_explosion"
+        ],
+        "subtitle": "subtitles.tcc.enchantment.guilty_of_fortane.melt"
+    },
+    "enchantment.instakill_axe.kill":{
+        "sounds": [
+            "tcc:enchantment/instakill_axe/metal_pipe"
+        ],
+        "subtitle": "subtitles.tcc.enchantment.instakill_axe.kill"
+    }
+}
